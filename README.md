@@ -8,4 +8,4 @@
 
 • node label - resistant/susceptible
 
-*visualisation require Chrome browser and patience to load
+*visualisation require Google Chrome browser and patience to load
