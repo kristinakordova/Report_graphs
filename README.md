@@ -8,6 +8,6 @@
 
   • node label - resistant/susceptible
 
-*visualisation require Google Chrome browser and patience to load
+*visualisations require Google Chrome browser and patience to load
 
 **download full lolder. lib folder is required for source code otherwise loading bar is stuck at 0%
